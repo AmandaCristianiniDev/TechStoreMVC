@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47957912877\\Downloads\\back_end\\mvc\\TechStoreMVC\\TechStoreMVC.csproj",
+      "projectUniqueName": "C:\\Users\\47957912877\\Desktop\\TechStoreMVC\\TechStoreMVC.csproj",
       "projectName": "TechStoreMVC",
-      "projectPath": "C:\\Users\\47957912877\\Downloads\\back_end\\mvc\\TechStoreMVC\\TechStoreMVC.csproj",
+      "projectPath": "C:\\Users\\47957912877\\Desktop\\TechStoreMVC\\TechStoreMVC.csproj",
       "packagesPath": "C:\\Users\\47957912877\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47957912877\\Downloads\\back_end\\mvc\\TechStoreMVC\\obj\\",
+      "outputPath": "C:\\Users\\47957912877\\Desktop\\TechStoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
